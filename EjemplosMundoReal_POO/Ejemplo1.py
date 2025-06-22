@@ -15,7 +15,7 @@ class Libro:
     def devolver(self):
         self.disponible = True
 
-# Clase que representa un lector de la biblioteca
+# Clase que representa un lector de la biblioteca.
 class Usuario:
     def __init__(self, nombre, cedula):
         self.nombre = nombre
