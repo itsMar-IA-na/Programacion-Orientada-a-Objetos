@@ -17,6 +17,6 @@ def main_tradicional():
     promedio = calcular_promedio(temps)
     print(f"El promedio semanal de la temperatura es: {promedio:.2f}°C")
 
-# Punto de entrada del programa
+# Punto de entrada del programa.
 if __name__ == "__main__":
     main_tradicional()
