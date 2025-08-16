@@ -7,7 +7,7 @@ El sistema está orientado a la administración de **libros en una tienda o bibl
 Está dividido en tres archivos principales:  
 - `producto.py`: Contiene la clase `Producto`, que en este caso representa a un libro.  
 - `inventario.py`: Contiene la clase `Inventario`, encargada de gestionar la colección de libros.  
-- `main.py`: Contiene el menú principal para interactuar con el sistema mediante consola.  
+- `semana9.py`: Contiene el menú principal para interactuar con el sistema mediante consola.  
 
 ---
 
