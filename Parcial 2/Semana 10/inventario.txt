@@ -1,0 +1,10 @@
+1,Cien años de soledad,15,12.50
+2,Don Quijote de la Mancha,10,18.00
+3,La Odisea,8,14.75
+4,1984,20,10.00
+5,El Principito,25,7.50
+6,Crimen y Castigo,12,16.20
+7,Rayuela,10,13.40
+8,Ficciones,18,11.90
+9,La ciudad y los perros,14,15.00
+10,Pedro Páramo,22,9.80
