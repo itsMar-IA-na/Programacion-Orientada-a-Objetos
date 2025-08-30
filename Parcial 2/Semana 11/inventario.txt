@@ -1,0 +1,20 @@
+1,Cien años de soledad,15,12.5
+2,Don Quijote de la Mancha,10,18.0
+3,La Odisea,8,14.75
+4,1984,20,10.0
+5,El Principito,25,7.5
+6,Crimen y Castigo,12,16.2
+7,Rayuela,10,13.4
+8,Ficciones,18,11.9
+9,La ciudad y los perros,14,15.0
+10,Pedro Páramo,22,9.8
+11,El Aleph,16,12.3
+12,La metamorfosis,19,9.5
+13,Orgullo y prejuicio,21,14.6
+14,Los miserables,11,17.8
+15,Moby Dick,9,13.7
+16,Ulises,7,20.0
+17,En busca del tiempo perdido,6,22.4
+18,La Divina Comedia,13,18.9
+19,Hamlet,15,11.2
+20,La Iliada,17,14.3
