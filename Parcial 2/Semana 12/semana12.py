@@ -167,3 +167,5 @@ if __name__ == "__main__":
     # Búsquedas
     encontrados = biblio.buscar_libros("categoria", "programación")
     print("Libros encontrados en Programación:", [str(l) for l in encontrados])
+
+#fin
