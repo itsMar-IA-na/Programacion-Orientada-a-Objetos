@@ -5,7 +5,7 @@ def menu():
     inventario = Inventario()
 
     while True:
-        print("\n===== Sistema de Inventario (Semana 9) =====")
+        print("\n===== Sistema de Inventario (Semana 09) =====")
         print("1. Agregar producto")
         print("2. Eliminar producto")
         print("3. Actualizar producto")
