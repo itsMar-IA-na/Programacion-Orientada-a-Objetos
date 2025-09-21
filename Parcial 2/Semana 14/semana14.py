@@ -18,7 +18,7 @@ class AgendaApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Agenda Personal - Mejorada")
-        self.geometry("820x480")
+        self.geometry("1020x680")
         self.resizable(False, False)
 
         # Layout principal
@@ -328,7 +328,7 @@ class EditDialog(tk.Toplevel):
 
 if __name__ == "__main__":
     if not has_dateentry:
-        print("Aviso: tkcalendar no está instalado. El campo de fecha funcionará como texto.")
-        print("Para instalarlo ejecuta: pip install tkcalendar")
+        print("Aviso: tkcalendar no está instalado.")
+        print("Para instalarlo ejecuta: File - Settings - Project - Python project - install tkcalendar")
     app = AgendaApp()
     app.mainloop()
