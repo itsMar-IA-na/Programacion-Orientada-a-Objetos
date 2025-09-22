@@ -17,7 +17,7 @@ DATA_FILE = "agenda_eventos.json"
 class AgendaApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Agenda Personal - Mejorada")
+        self.title("Agenda Personal - Mariana López")
         self.geometry("1020x680")
         self.resizable(False, False)
 
@@ -79,7 +79,7 @@ class AgendaApp(tk.Tk):
         # Hora
         ttk.Label(frame, text="Hora (HH:MM):").grid(row=2, column=0, sticky="w", pady=(8,0))
         self.time_entry = ttk.Entry(frame)
-        self.time_entry.insert(0, "07:30")
+        self.time_entry.insert(0, "00:00")
         self.time_entry.grid(row=2, column=1, padx=5, pady=(8,0), sticky="ew")
 
         # Descripción (Text)
