@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3c93c256-148c-4f65-b260-eb4179a0c513",
+    "text": "Hacer el examen de Estadística",
+    "priority": "Alta",
+    "due_date": "",
+    "completed": false
+  },
+  {
+    "id": "07707737-81d2-4303-96d4-b37196f83197",
+    "text": "Ir a hacer ejercicio (2 hrs)",
+    "priority": "Normal",
+    "due_date": "",
+    "completed": false
+  },
+  {
+    "id": "b10a6927-9b12-436f-b04c-4b3767071c8e",
+    "text": "Hacer el deber de programación",
+    "priority": "Alta",
+    "due_date": "",
+    "completed": false
+  },
+  {
+    "id": "52bfe793-11dd-40eb-bde2-5f5131d0b33a",
+    "text": "Revisar grabaciones del seminario",
+    "priority": "Baja",
+    "due_date": "",
+    "completed": false
+  },
+  {
+    "id": "e8751b97-2511-4ea9-8bc4-4d9917f1cd32",
+    "text": "VER EL NUEVO CAPÍTULO DE ONE PIECE",
+    "priority": "Alta",
+    "due_date": "2025-09-28",
+    "completed": false
+  }
+]
